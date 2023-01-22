@@ -17,6 +17,22 @@ npm run dev
 
 // Use this file to write your report.
 
+
+The aUser object is supposed to simulate a generic user filling out a form, or sign in up for an account. 
+The object has the following properties:
+
+name (string) and logs the person's name. 
+age (number) gets the person's age. 
+updateAge (function) adds one increment to the age when called. 
+hasFriends (boolean) says if the person has friends or not. 
+friends (array) lists names of friends in an array.  
+
+User is an object constructor, this can be used as a template if you have multible similar objects. 
+
+Made by Bendik Bjerkeset.
+
+
+
 This object has the following properties:
 
 ## Minimum acceptance Criteria
